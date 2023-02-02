@@ -18,7 +18,7 @@ If you have any questions or concerns, please reach out to us at [kanishka2kk2@g
 # Contributions
 If you would like to contribute to the development of our weather website, please send a pull request to [https://github.com/kanish-dev/accuweather]. All contributions are welcome and appreciated.
 
-# images 
+# Images 
 <img src="https://github.com/kanish-dev/accuweather/blob/main/accuweather/public/images/index.png">
 <img src="https://github.com/kanish-dev/accuweather/blob/main/accuweather/public/images/search.png">
 <img src="https://github.com/kanish-dev/accuweather/blob/main/accuweather/public/images/w1.png">
